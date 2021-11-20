@@ -5,7 +5,7 @@
 #include <vector>
 
 namespace utilities {
-std::vector<std::string> get_substrs(const std::string& str, char delimiter);
+  std::vector<std::string> get_substrs(const std::string& str, char delimiter);
 }
 
 #endif
